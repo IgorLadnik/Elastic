@@ -4,6 +4,10 @@ https://github.com/kop7/nest-elasticsearch-vue/tree/master/server/src
 
 Implement Elastic Search Using NestJS
 https://www.codebyomar.me/implement-elastic-search-using-nest-js
+
+
+Remote reindexing:
+https://www.codementor.io/@monikamaheshwari1996/upgrading-elasticsearch-server-data-dm8bccwf7
 */
 
 import { NestFactory } from '@nestjs/core';

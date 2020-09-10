@@ -25,6 +25,6 @@ import { ElasticService } from './elastic.service';
 export class ElasticModule implements OnModuleInit {
   constructor(private esService: ElasticService) {}
   async onModuleInit() {
-    await this.esService.createIndex();
+    //await this.esService.createIndex();
   }
 }
